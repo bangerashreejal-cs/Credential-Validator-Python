@@ -9,7 +9,7 @@ A simple Python application that validates user login credentials using custom l
 * **UX Animation:** Features a "Logging In..." terminal animation.
 
 ##  How to Use
-1. Download the `main.py` file.
+1. Download the `Credential-Validator-Python.py` file.
 2. Run it in any Python environment:
    ```bash
-   python main.py
+   python Credential-Validator-Python.py
