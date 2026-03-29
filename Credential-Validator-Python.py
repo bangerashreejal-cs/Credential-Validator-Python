@@ -178,8 +178,8 @@ while True:
   print("\n")
   outcome3=password(user_password)
   if outcome3==True:
-    for char in "LOGGING IN... ":                         #Simulating a "logging in" animation (bring cursor to the bottom of source code to view animation)
-      print(char,end="")
+    for char in "LOGGING IN... ":                         #Simulating a "logging in" animation 
+      print(char, end="", flush=True)
       if char!= ' ':
         time.sleep(0.21)
     print("\n")
